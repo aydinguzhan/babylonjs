@@ -1,0 +1,48 @@
+{
+	"editorVersion": "4.5.0",
+	"lastOpenedScene": "projects/scene/scene.editorproject",
+	"serverPort": 1338,
+	"generateSceneOnSave": true,
+	"firstLoad": false,
+	"watchProject": true,
+	"physicsEngine": "cannon",
+	"pluginsPreferences": {
+		"dior": {
+			"grass": {
+				"grassOffset": 1,
+				"width": 10,
+				"height": 10,
+				"randomScaling": 0
+			}
+		}
+	},
+	"packageManager": "yarn",
+	"outputSceneDirectory": "",
+	"https": {
+		"enabled": false
+	},
+	"basisCompressedTextures": {
+		"enabled": false
+	},
+	"ktx2CompressedTextures": {
+		"enabled": false,
+		"pvrTexToolCliPath": "",
+		"nvidiaTextureToolsLink": {},
+		"forcedFormat": "automatic",
+		"enabledInPreview": false,
+		"astcOptions": {
+			"quality": "astcveryfast"
+		},
+		"pvrtcOptions": {
+			"quality": "pvrtcfastest"
+		},
+		"ect1Options": {
+			"enabled": false,
+			"quality": "etcfast"
+		},
+		"ect2Options": {
+			"enabled": false,
+			"quality": "etcfast"
+		}
+	}
+}
